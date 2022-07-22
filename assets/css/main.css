@@ -85,7 +85,7 @@
     font-size: 1.4rem;
     padding: 10px 16px;
     display: block;
-
+    
 }
 
 .header__navbar-user-item a:first-child{
@@ -1146,10 +1146,6 @@ i.home-product-item__like-icon-fill{
     display: flex;
     margin: 6px 10px 0 ;
     color: rgba(0,0,0,0.65);
-}
-
-.home-product-item__brand{
-
 }
 
 .home-product-item__origin-name{
